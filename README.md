@@ -22,10 +22,12 @@
 
 <h1>**output**</h1>
 
-**Mobile view:**
+<h2>**Mobile view:**</h2>
+
 ![Screenshot (519)](https://github.com/user-attachments/assets/31338247-8f70-4286-be90-58339859c955)
 
-**desktop**
+<h3>**desktop**</h3>
+
 ![Screenshot (518)](https://github.com/user-attachments/assets/6eb219ab-fae1-42c1-9323-d2d9ab3a6dbb)
 
 
